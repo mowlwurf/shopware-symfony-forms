@@ -1,7 +1,7 @@
 {
-	"name": "barbieswimcrew/shopware-symfony-forms",
+	"name": "mowlwurf/shopware-symfony-forms",
     "description": "Integration of the symfony2 form component in Shopware projects",
-    "keywords": ["shopware", "symfony", "form builder"],
+    "keywords": ["shopware", "symfony", "form builder", "fork"],
     "license": "MIT",
     "authors": [
         {
@@ -25,5 +25,6 @@
         "psr-4": {
             "ShopwareSymfonyForms\\FormFactory\\": "src/ShopwareSymfonyForms/FormFactory"
         }
-    }
+    },
+    "version": "1.0.0"
 }
